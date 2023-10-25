@@ -7,10 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@adhilfouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@adhilfouzi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adhilfouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhilfouzi" height="30" width="40" /></a>
 <a href="https://fb.com/adhilfouzik.kanthapuram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adhilfouzik.kanthapuram" height="30" width="40" /></a>
 <a href="https://instagram.com/fouz____________" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fouz____________" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adhilfouzi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adhilfouzi/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/adhil fouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adhil fouzi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adhilfouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhilfouzi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
