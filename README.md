@@ -49,13 +49,15 @@
 </p>
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhilfouzi&show_icons=true&locale=en&layout=compact" alt="adhilfouzi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhilfouzi&show_icons=true&locale=en&layout=compact&theme=dark" alt="adhilfouzi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhilfouzi&show_icons=true&locale=en" alt="adhilfouzi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhilfouzi&show_icons=true&locale=en&theme=dark" alt="adhilfouzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhilfouzi&" alt="adhilfouzi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhilfouzi&theme=dark" alt="adhilfouzi" /></p>
+
 <h2 align="center">📊 Leetcode Stats:</h2> 
 <br>
-  <img src="https://leetcard.jacoblin.cool/adhilfouzi?theme=light&font=Roboto&ext=heatmap"/>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adhilfouzi?ext=heatmap)](https://leetcard.jacoblin.cool/adhilfouzi?ext=heatmap)
 <br>
 
