@@ -17,6 +17,7 @@
 
 - 📫 How to reach me **adhilfouzi@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhilfouzi&label=Profile%20views&color=0e75b6&style=flat" alt="adhilfouzi" /> </p>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@adhilfouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@adhilfouzi" height="30" width="40" /></a>
@@ -26,9 +27,7 @@
 <a href="https://instagram.com/adhilfouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhilfouzi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/adhil fouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adhil fouzi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adhilfouzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhilfouzi" height="30" width="40" /></a>
-</p>
-
-User
+</p> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
@@ -49,11 +48,14 @@ User
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 </p>
 
-
-
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhilfouzi&show_icons=true&locale=en&layout=compact" alt="adhilfouzi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhilfouzi&show_icons=true&locale=en" alt="adhilfouzi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhilfouzi&" alt="adhilfouzi" /></p>
+<h2 align="center">📊 Leetcode Stats:</h2> 
+<br>
+  <img src="https://leetcard.jacoblin.cool/adhilfouzi?theme=light&font=Roboto&ext=heatmap"/>
+<br>
+
