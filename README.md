@@ -45,9 +45,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhilfouzi&theme=dark" alt="adhilfouzi" /></p>
 
-<h2 align="center">📊 Leetcode Stats:</h2> 
+<...<h2 align="center">📊 Leetcode Stats:</h2> 
 <br>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/adhilfouzi?ext=heatmap)](https://leetcard.jacoblin.cool/adhilfouzi?ext=heatmap)
-<br>
+<br>...>
 
