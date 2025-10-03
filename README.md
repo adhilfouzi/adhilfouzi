@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **working on Brototype**
-
-- 🌱 I’m currently learning **Flutter animation packages**
-
-- 👯 I’m looking to collaborate on **open-source Flutter projects related to UI design and animation.**
-
-- 👨‍💻 All of my projects are available at [https://adhilfouzi.github.io/adhilfouzi.io/](https://adhilfouzi.github.io/adhilfouzi.io/)
-
-- 💬 Ask me about **Flutter queries**
-
 - 📫 How to reach me **adhilfouzi@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhilfouzi&label=Profile%20views&color=0e75b6&style=flat" alt="adhilfouzi" /> </p>
 <hr>
