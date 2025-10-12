@@ -6,7 +6,7 @@
 <h3 align="center">Professional Flutter Developer | Mobile App Specialist | Available for Freelance Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+Expert;Clean+Code+Advocate;UI%2FUX+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+Expert;Clean+Code+Advocate;UI%2FUX+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,9 +27,18 @@
 - Cross-platform mobile app development (iOS & Android)
 - Firebase integration & backend solutions
 - State management (Provider, Bloc, Riverpod, GetX)
-- RESTful API integration
-- Custom UI/UX implementation
+- RESTful API integration & GraphQL
+- Custom UI/UX implementation with Material Design & Cupertino
 - App optimization & performance tuning
+- Push notifications & real-time messaging
+- Payment gateway integration (Stripe, PayPal, Razorpay)
+- Google Maps & location-based services
+- Local & cloud database management (SQLite, Hive, Firestore)
+- App store deployment (Google Play & Apple App Store)
+- Clean Architecture & SOLID principles
+- Responsive design for tablets and foldable devices
+- Offline-first architecture & data synchronization
+- Unit testing, widget testing & integration testing
 
 📫 **Let's Connect:** [adhilfouzi@gmail.com](mailto:adhilfouzi@gmail.com)
 
@@ -68,7 +77,7 @@
 
 ## 🛠️ Tech Stack
 
-### Core Technologies
+### 📱 Core Flutter & Dart
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
@@ -76,43 +85,131 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
   </a>
+</p>
+
+### 🏗️ State Management
+<p align="left">
+  <a href="https://pub.dev/packages/provider" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="provider" width="45" height="45"/>
+  </a>
+  <a href="https://bloclibrary.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" alt="bloc" width="80" height="45"/>
+  </a>
+  <a href="https://riverpod.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rrousselGit/riverpod/master/resources/icon/Facebook%20Cover%20A.png" alt="riverpod" width="80" height="45"/>
+  </a>
+  <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/flutter.svg" alt="getx" width="45" height="45"/>
+  </a>
+  <a href="https://pub.dev/packages/mobx" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/mobxjs/mobx/main/docs/assets/mobx.png" alt="mobx" width="45" height="45"/>
+  </a>
+</p>
+
+### 💾 Database & Backend
+<p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
   </a>
+  <a href="https://pub.dev/packages/hive" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/13438370/122495958-e5cd6d80-cfe9-11eb-9c57-d5c8c4a6e26e.png" alt="hive" width="80" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  </a>
 </p>
 
-### Design & Development Tools
+### 💳 Payment & API Integration
+<p align="left">
+  <a href="https://stripe.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="45" height="45"/>
+  </a>
+  <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/7713209?s=200&v=4" alt="razorpay" width="45" height="45"/>
+  </a>
+  <a href="https://cloud.google.com/maps-platform" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="google maps" width="45" height="45"/>
+  </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+  </a>
+</p>
+
+### 🎨 UI/UX Design Tools
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobe xd" width="45" height="45"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="45" height="45"/>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45"/>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop.svg" alt="photoshop" width="45" height="45"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="45" height="45"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="45" height="45"/>
+  </a>
+  <a href="https://inkscape.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" width="45" height="45"/>
   </a>
 </p>
 
-### Additional Skills
+### 💻 Development Tools & IDEs
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45"/>
+  </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+</p>
+
+### 🔤 Languages & Frameworks
+<p align="left"> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="45" height="45"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
   </a>
 </p>
 
@@ -127,14 +224,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhilfouzi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="adhilfouzi" width="48%" />
-</div>
-
----
-
-## 🏆 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/adhilfouzi?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -184,7 +273,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhilfouzi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <p align="center">
